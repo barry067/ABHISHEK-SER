@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2348139403192', 'UYI NOSAKHARE', true],
+  ['2347081225837', 'BAD ARTIST', true],
   [''],
   [''] 
 ] //Number of owners
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
 global.premium = 'true'
 global.packname = '𝙰kira' 
-global.author = 'UYI BOT' 
+global.author = 'ARTIST BOT' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
